@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Abhishek Kathuria
-- 👀 I’m interested in Coding and Creating new things
-- 🌱 I’m currently learning React and Vue js
+- 👋 Hi, I’m **Abhishek Kathuria**
+- 👀 I’m interested in **Coding** and Creating new things
+- 🌱 I’m currently learning **React** and **Vue js**
 - 📫 How to reach me akathuria289@gmail.com
 
 <!---
